@@ -6,3 +6,4 @@ extras/documentation
 /.settings
 /.vagrant
 /vendor
+/node_modules
